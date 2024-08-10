@@ -1,4 +1,4 @@
-# COD-INTERSHIP-2
+# PROJECT 2
 
 **Name:** Vishal Dhote
 
