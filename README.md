@@ -57,24 +57,30 @@ The objective of this task is to design Finite State Machines (FSMs) using Veril
 
 ### Procedure
 
-Step 1 : After login into Amazon AWS, Visit the EC2 instance 
+**MUX**
 
+![Screenshot 2024-08-12 083037](https://github.com/user-attachments/assets/d49d7f72-ab32-461c-b136-11f033576d4a)
+![Screenshot 2024-08-12 083028](https://github.com/user-attachments/assets/9ab63868-04fa-4b2b-b792-1d2d886cc836)
 
-Step 2 : Then we will directed to the another webpage, then we will click here to launch instance, then we will proceed to next step 
-where, we will fill all required info about Name, AMI etc, we will have the new instance live after few seconds.
+![Screenshot 2024-08-12 082535](https://github.com/user-attachments/assets/e6d4a323-4a40-4727-9312-8606b2e054de)
 
+**SIMULATION CODE**
+![Screenshot 2024-08-12 082855](https://github.com/user-attachments/assets/8cfd2b05-4f6e-4f0f-b065-79aae2e47617)
 
-Step 3 : Then we will click in Required Instance, then click on connect for further proceed. As we click, we will have console.
+**BEHAVIOR**
+![Screenshot 2024-08-12 082655](https://github.com/user-attachments/assets/ebe87067-dce7-4e70-8088-975a6dd939ef)
 
+**FSM CODDE ONE TYPE**
+![Screenshot 2024-08-12 071223](https://github.com/user-attachments/assets/ee13d57f-c801-4569-ae71-b871acbc6cfd)
 
+![Screenshot 2024-08-12 071239](https://github.com/user-attachments/assets/6055adff-65ce-40dd-91b2-8bc7a855ba39)
 
-Step 4 : In console, we will run various cmd for updation, upload github wepage link, uploading webpages file.
+**BEHAVIOR**
 
+![Screenshot 2024-08-10 203945](https://github.com/user-attachments/assets/3248b997-a3e3-464b-b9ad-b91a1d8feb9c)
+![Screenshot 2024-08-10 203958](https://github.com/user-attachments/assets/e52b6252-3e4c-4a21-9864-465c1aaba5b6)
 
+**8X1 BHEVIOR**
+![Screenshot 2024-08-10 131543](https://github.com/user-attachments/assets/44ba39d1-4e6a-4134-ba59-0d41b752ed2b)
 
-Step 5 : Then, by Selecting the instance , gone to Security Groups & in inbound rules, we will change it to https & https, for public accessible all over the internet.
-
-
-
-Step 6 : Then, we will seen that our webpage got live, while accessing through the public ip address
-
+![Screenshot 2024-08-10 130732](https://github.com/user-attachments/assets/fcf1dfe3-8a91-4b23-9ffd-6d701fbb45cc)
